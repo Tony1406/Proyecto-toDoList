@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+input[type="checkbox" i] {
+    background-color: initial;
+    cursor: default;
+    box-sizing: border-box;
+    margin-top: 4%;
+    padding: initial;
+    border: initial;
+    width: 22px;
+}
+
+.arreglarInput{
+        margin: 15px;
+        width: 75%;
+}
+
+.boton {
+    border-radius: 45px;
+    height: 50%;
+    background-color: black;
+    margin-top: 5%;
+}
