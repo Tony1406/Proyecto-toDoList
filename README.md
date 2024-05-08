@@ -16,3 +16,7 @@ Para probar este proyecto en tu computadora localmente, sigue estos pasos:
 
    ```bash
    git clone https://github.com/Tony1406/Proyecto-toDoList
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, puedes contactarme a través de mi correo electrónico: anthony.go0609@gmail.com
