@@ -1,12 +1,12 @@
 # Proyecto de Tareas por hacer
 
-Este es un proyecto de ejemplo que utiliza HTML, CSS y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
+Este es un proyecto de ejemplo que utiliza HTML, CSS, Bootstrap y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
 
 https://proyecto-to-do-list-rosy.vercel.app/
 
 ## Descripción
 
-Este proyecto es una demostración de cómo se pueden combinar HTML, CSS y JavaScript para crear una pagina que añadir, tachar y eliminar cualquier cantidad de tareas que se deseen realizar, o que ya hayan sido realizadas.
+Este proyecto es una demostración de cómo se pueden combinar HTML, CSS, Bootstrap y JavaScript para crear una pagina que añadir, tachar y eliminar cualquier cantidad de tareas que se deseen realizar, o que ya hayan sido realizadas.
 
 ## Uso
 
